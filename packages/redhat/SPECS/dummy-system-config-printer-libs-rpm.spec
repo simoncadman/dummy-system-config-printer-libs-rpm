@@ -15,3 +15,5 @@ Dummy package to satisfy dependency of CUPS Cloud Print on opensuse
 %changelog
 * Fri Jan 17 2014  <src@niftiestsoftware.com> 0-1
 - Initial package
+
+%files
